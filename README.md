@@ -3,38 +3,39 @@
 
 ![칵테일 프로젝트](https://github.com/leem5514/CocktailProject/assets/116091798/61d1b70c-e1d6-4ae7-a511-b6da116656cf)
 
-<!--<h2 style="border-bottom: 1px solid #35aeff; padding: 0px 10px 1px; margin: 10px 0px 5px; border-left: 8px solid #35aeff; letter-spacing: -0.07em;">목차</h2>-->
-## 목차
+# 목차
 
-1. 개요
-2. 개발 환경
-3. 화면 구성
-4. 구동 영상
-<div>
- <h2>개요</h2>
-</div>
+1. [개요](#개요)<br>
+2. [개발 환경](#개발-환경) <br>
+3. [실행 방법](#실행-방법) <br>
+4. [ERD](#erd) <br>
+5. [화면 구성](#화면-구성) <br>
+6. [실행 영상](#실행-영상-url)
+
+# 개요
+
  
  + 현대의 많은 사람들은 여러가지 이유로 술을 찾는다. 친목을 위해서 술을 마실 수도 있고 위로 등 다양한 방식으로 술을 소비한다. 현재 대한민국은 전세계에서 연간 일인당 술 섭취량이 11등이라는 적지 않은 기록을 보유하고 있다.</br>
    술을 소비하는 대한민국의 국민을 잠재적인 웹 이용자라고 가정하고 이용자에게 더 맛있는 술 을 제공할 수 있도록 레시피를 알려주거나 주변의 편의점에서 쉽게 찾을 수 있도록 알려주는 칵테일 제로 레시피를 제공해 주는 웹 사이트를 제작했다.
 
-## 개발 환경
+# 개발 환경
  ![image](https://github.com/leem5514/CocktailProject/assets/116091798/a67c80a8-099b-483a-9761-d258aeb76c58)  ![image](https://github.com/leem5514/CocktailProject/assets/116091798/5f52b1d7-186c-416a-8057-92d75672ab3a)  ![image](https://github.com/leem5514/CocktailProject/assets/116091798/7ed36ddb-132f-4689-9125-8a8bd119f335) ![image](https://github.com/leem5514/CocktailProject/assets/116091798/8c8abf54-efb6-4f96-935f-a67976017ddb) ![js](https://github.com/leem5514/CocktailProject/assets/116091798/ebf3edec-420b-48f0-8ce1-4a5d1f6d4a89)
  <br>
  visual studio 을 통한 html + css 화면 구성<br>
  intellij 을 통한 백엔드 정보 제공 / java 사용 <br>
  mysql 을 통한 칵테일에 관한 이미지 + 이름 + 레시피 등 저장<br>
 
-## 실행 방법
+# 실행 방법
 ![image](https://github.com/leem5514/CocktailProject/assets/116091798/4c3acec3-e006-4b3a-b725-4e615a48a010)
 
 톰캣 10 을통한 localhost 실행 적용 <br>
 AWS을 사용한 배포 예정
 
-## ERD
+# ERD
 
 ![erd](https://github.com/leem5514/CocktailProject/assets/116091798/6c4685ce-ef7c-438a-bd36-2ce157eec19e)
 
-## 화면 구성
+# 화면 구성
 <a>start.html</a>
 
 ![start](https://github.com/leem5514/CocktailProject/assets/116091798/48b24d5c-d1d1-47fc-b14f-51faad118242)
@@ -71,6 +72,6 @@ AWS을 사용한 배포 예정
 <P> 오늘에 날씨나 자신의 MBTI 등에 맞는 칵테일 레시피를 원할 경우 검색화면에서 OTHER RECOMMEND 들어와서 각 맞는 부분에 체크하면 그에 맞는 리스트를 제공합니다</P>
 <br>
 
-## 실행 영상 URL
+# 실행 영상 URL
 
 [![Video Label](http://img.youtube.com/vi/nXI_UoIDwXA/0.jpg)](https://youtu.be/nXI_UoIDwXA)

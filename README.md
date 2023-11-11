@@ -18,4 +18,6 @@
 ## 화면 구성
 
 
+## 구동영상
+https://youtu.be/nXI_UoIDwXA
    

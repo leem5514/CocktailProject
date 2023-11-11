@@ -18,7 +18,7 @@
 ## 화면 구성
 ![start](https://github.com/leem5514/CocktailProject/assets/116091798/48b24d5c-d1d1-47fc-b14f-51faad118242)
 <p> 기본적인 시작화면입니다. 가운데 버튼을 누르면 다음 페이지로 이동합니다</p>
-[divide](https://github.com/leem5514/CocktailProject/assets/116091798/b241cb2e-847f-4895-9ddc-97bc121a68e8)"
+https://github.com/leem5514/CocktailProject/assets/116091798/b241cb2e-847f-4895-9ddc-97bc121a68e8
 <p> 일반적인 칵테일 제조 방법과 주변에서 편하게 구할 수 있는 편의점 칵테일 제조방법 이 두가지 레시피 중 선택할 수 있도록 하는 화면 구성입니다</p>
 ![search](https://github.com/leem5514/CocktailProject/assets/116091798/600bf503-c9e9-4f0b-9b6c-dff29cdccde4)
 <p> 일반적인 칵테일 제조 방법을 선택한 경우 위 페이지가 선택됩니다. 위 페이지에서는 직접 input으로 검색하여 추출하는 방법과 재료를 검색 또는 mbti 등을 검색하는 사이트로 이동할 수 있습니다.</p>

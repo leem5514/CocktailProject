@@ -31,5 +31,5 @@
 ![mbti](https://github.com/leem5514/CocktailProject/assets/116091798/7a6f9f6b-5ecf-4c48-8f6e-112052c77964)
 <P> 오늘에 날씨나 자신의 MBTI 등에 맞는 칵테일 레시피를 원할 경우 검색화면에서 OTHER RECOMMEND 들어와서 각 맞는 부분에 체크하면 그에 맞는 리스트를 제공합니다</P>
 ## 구동영상
-https://youtu.be/nXI_UoIDwXA
++ https://youtu.be/nXI_UoIDwXA
    

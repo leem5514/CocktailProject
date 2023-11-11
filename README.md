@@ -30,6 +30,10 @@
 톰캣 10 을통한 localhost 실행 적용 <br>
 AWS을 사용한 배포 예정
 
+## ERD
+
+![erd](https://github.com/leem5514/CocktailProject/assets/116091798/6c4685ce-ef7c-438a-bd36-2ce157eec19e)
+
 ## 화면 구성
 <a>start.html</a>
 
